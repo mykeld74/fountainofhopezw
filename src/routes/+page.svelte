@@ -60,7 +60,7 @@
 		justify-content: center;
 		align-items: center;
 		width: 100%;
-		min-height: calc(100vh - 150px);
+		min-height: calc(100vh - 170px);
 		text-align: center;
 	}
 </style>
